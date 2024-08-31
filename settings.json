@@ -1,0 +1,5 @@
+{
+    "channel": "extremeey", // target channel name
+    "username": "", // your bots username
+    "password": "" // your bots oauth https://twitchapps.com/tmi/
+}
